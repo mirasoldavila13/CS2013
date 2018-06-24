@@ -1,0 +1,12 @@
+24.1 - Yes, you can get the iterator by using list.iterator();
+24.2- No you cannot create a list using a new MyAbstractList() since the abstract class has protected fields
+24.3- The methods in MyList that are overridden in MyAbstractList is add(e: E), isEmpty(), size(), remove(e: E)
+24.4 -The benefits of defining both the MyList and MyAbstactList class is that it combines both interfaces and abstract class that is very convenient so we can implement the functions be able able to use it multiple times.
+24.5 - Th limitation of the array data type is that once an array is created the size can't be changed, its a fixed size data structure, it can hold data type elements, and they can store either integer elements or string elements but can't store both of them and a single array.
+24.6 - MyArrayList is implemented using an array, and an array is a data structure. 
+MyArrayList is a dynamic data structure since the size is increased every time the array is full
+24.7- the length  is 16,16,1,3,3,and 7
+24.8 - What is wrong with the lines because of the null pointer
+24.9 - The reason why it is incorrect is if you replace the statement the program will show an error once it is executed. Since the empty array list is trimmed and the size is zero adding a new element to a empty array will cause an ArrayIndexOutOfBound except that is the reason why the error occured.
+24.10- Yes the MyArrayList will have a memory leak.
+24.11 - 
